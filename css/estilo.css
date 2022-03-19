@@ -1,0 +1,142 @@
+.contenedor{
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+
+.blo2{
+    display: flex;
+    justify-content:center;
+    background-color: rgb(242, 247, 243);
+    margin: 1px;
+    height: 610px;
+}
+.blo2 img{
+   
+    height: 610px;
+    image-resolution: 1080p;
+    
+}
+body{
+    font: 15px arial, helvetica,sans-serif;
+    padding: 0;
+    margin: 0;
+    background-color: #be0d0d;
+
+}
+h2{
+    text-align: center;
+    background-color: #3207a7;
+}
+
+ul{
+    margin: 0;  
+    padding: 0;
+}
+.botton1{
+    height: 68px;
+    width: 66px;
+    border-radius: 20px;
+    background-color: #4c07a7;
+    padding-left: 10px;
+    padding-right: 15px;
+    padding-bottom: 40px;
+    color: rgb(228, 11, 11);
+    text-transform: uppercase;
+    text-decoration: none;
+}
+/*encabezado*/
+header{
+    background-color: #0d86e4;
+    color: #fff;
+    padding-top: 30px;      
+    min-height: 70px;
+    border-bottom: 5px solid #6abe55;
+
+}
+header a {
+    color: rgb(14, 13, 13);    
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 16px;
+}
+header li{
+    float:left;
+    display: inline;
+    padding: 30px 20px 0 20px;
+}
+header #marca{
+    float: left;
+}
+header #marca h1{
+    margin: 0;
+}
+header nav{
+    float: right;
+    margin-top: 10px;
+}
+header .resaltado, header .actual a{
+    color: #3f07a7;
+    font-weight: bold;
+}
+/*formulario registro*/
+#regis{
+    padding: 15px;
+    color: rgb(10, 10, 10);
+    background: #0583e4;
+    
+}
+#regis{
+    float: center;
+    text-align: center;
+    
+    text-transform: uppercase;
+}
+#regis a{
+    color: #fff;    
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 18px;
+
+}
+/*cajas*/
+#cajas{
+    margin-top: 20px;
+}
+#cajas .caja{
+    float: left;
+    text-align: center;
+    width: 30%;
+    padding: 10px;
+}
+#cajas .caja img{
+    width: 250px;
+    height: 320px;
+    
+}
+
+/*footer*/
+footer{
+    padding: 20px;
+    margin-top: 20px;
+    color: rgb(15, 0, 0)15, 0, 0);
+    background-color:#0d86e4;
+    text-align: center;
+}
+#cajas2 .caja{
+    float:right;
+    width: 50% ;
+    padding: 50px 5px 50px 300px;
+    
+}
+#cajas2{
+    margin-top: 30px;
+}
+#cajas2 .caja img{
+    height: 100px;
+    
+}
+#empre{
+    font-size: 20px;
+    text-align:center;
+}

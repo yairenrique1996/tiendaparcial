@@ -1,0 +1,49 @@
+input{
+    border-radius:8px;
+    text-align: center;
+    font-size:50%;
+    text-align: auto;
+    
+}
+.dis{
+    height: 20px;
+    width: 100px;
+    border-left-color: rgb(146, 243, 129);
+    font-size:  35px;
+    
+}
+table {
+    border: 1px solid #3a3232f6;
+    background-color: rgb(243, 240, 237);
+    
+}
+  td{
+    padding:1px;
+    text-anchor: 10px;
+    font-style:arial;
+    font-weight:2px;
+    font-size:1em;
+    !font-color:#ffffff;
+    
+}
+body { 
+   
+    background-image :  url("unbelievable-1696447_1920.jpg") ;
+}
+h2{
+    color: hsl(119, 62%, 15%);
+}
+img{
+  height: 100px;
+    
+}
+fieldset{
+  width: 550px;  
+}
+.send{
+    background-color: yellowgreen;
+}
+.fondo{
+    background-size: 2000px;
+    background-image :  url("fondo.jpg") ;
+}
